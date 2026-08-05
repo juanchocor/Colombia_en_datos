@@ -1,0 +1,5 @@
+codigo_divipola,anio,cobertura_internet_fijo,suscriptores_internet_fijo,velocidad_promedio_internet_mbps,cobertura_4g,cobertura_5g,suscriptores_movil_internet,porcentaje_hogares_internet,porcentaje_hogares_computador,porcentaje_hogares_smartphone,porcentaje_personas_usan_internet,indice_brecha_digital,fuente_dato,fecha_actualizacion
+05001,2022,78.50,850000,45.30,98.50,15.20,1250000,85.30,72.10,95.20,88.50,12.30,MinTIC / DANE - ECV,2023-06-15
+05002,2022,12.30,450,8.50,65.20,0,3200,18.50,12.30,65.30,45.20,58.30,MinTIC / DANE - ECV,2023-06-15
+11001,2022,82.10,2850000,52.30,99.20,25.30,3850000,88.50,78.50,96.20,90.30,10.20,MinTIC / DANE - ECV,2023-06-15
+... (1,103 municipios × años disponibles)

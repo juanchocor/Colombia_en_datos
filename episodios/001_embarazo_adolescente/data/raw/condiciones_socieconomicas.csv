@@ -1,0 +1,5 @@
+codigo_divipola,anio,ipm_total,ipm_porcentaje_privaciones,ipm_dimension_educacion,ipm_dimension_ninez_juventud,ipm_dimension_trabajo,ipm_dimension_salud,ipm_dimension_vivienda,nbi_total,nbi_vivienda_inadecuada,nbi_servicios_publicos,nbi_hacinamiento_critico,nbi_inasistencia_escolar,nbi_dependencia_economica,ingreso_per_capita_promedio,coeficiente_gini,tasa_desempleo,tasa_ocupacion,tasa_informalidad,indice_desarrollo_municipal,valor_agregado_per_capita,fuente_dato,fecha_actualizacion
+05001,2022,12.30,18.50,8.20,5.30,15.20,6.50,8.20,5.80,1.20,1.50,2.10,0.80,2.30,1850000,0.485,9.80,58.30,42.50,78.50,28500000,DANE / DNP / TerriData,2023-06-15
+05002,2022,52.30,42.50,25.30,18.50,35.20,12.30,22.50,32.50,8.50,12.30,8.20,5.80,12.50,520000,0.520,18.50,38.20,75.30,42.30,8500000,DANE / DNP / TerriData,2023-06-15
+11001,2022,8.50,15.20,5.30,3.20,12.50,4.20,5.80,3.20,0.80,0.50,1.50,0.50,1.80,2450000,0.498,8.50,62.50,38.50,82.30,38500000,DANE / DNP / TerriData,2023-06-15
+... (1,103 municipios × años disponibles)

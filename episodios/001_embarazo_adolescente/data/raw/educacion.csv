@@ -1,0 +1,5 @@
+codigo_divipola,anio,tasa_cobertura_neta_media,tasa_cobertura_bruta_media,tasa_cobertura_neta_basica_secundaria,tasa_cobertura_neta_transicion,tasa_desercion_intraanual,tasa_desercion_media,tasa_reprobacion,tasa_aprobacion,anios_promedio_escolaridad,anios_promedio_escolaridad_mujeres,anios_promedio_escolaridad_adolescentes,puntaje_global_saber11,puntaje_lectura_critica,puntaje_matematicas,puntaje_sociales_ciudadanas,puntaje_ciencias_naturales,puntaje_ingles,numero_evaluados_saber11,tasa_asistencia_escolar_15_19,fuente_dato,fecha_actualizacion
+05001,2022,62.30,85.20,78.50,92.10,3.20,3.80,4.50,95.50,10.80,11.20,10.50,265.30,55.20,53.80,54.50,53.20,48.60,28500,75.30,MEN / ICFES / DANE,2023-06-15
+05002,2022,28.50,42.30,45.20,68.30,8.50,9.20,12.30,87.70,6.20,6.50,5.80,225.40,48.50,45.20,46.80,44.30,42.10,180,45.20,MEN / ICFES / DANE,2023-06-15
+11001,2022,68.50,88.30,82.50,94.20,2.80,3.20,3.80,96.20,11.50,12.10,11.20,275.50,57.80,56.20,57.30,55.80,52.30,45200,78.50,MEN / ICFES / DANE,2023-06-15
+... (1,103 municipios × años disponibles)
