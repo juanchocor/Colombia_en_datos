@@ -1,49 +1,26 @@
-"""Funciones para descubrir y cargar datos del proyecto."""
-
 from pathlib import Path
 
 import pandas as pd
 
-from src.config import RAW_DATA_DIR
+from src.config import DEFAULT_ENCODING
 
 
-def list_csv_files() -> list[Path]:
+def load_csv(path: str | Path, encoding: str = DEFAULT_ENCODING) -> pd.DataFrame:
+    """Carga un archivo CSV y devuelve un DataFrame."""
+    return pd.read_csv(path, encoding=encoding)
+
+
+def load_raw_data(data_dir: str | Path) -> dict[str, pd.DataFrame]:
     """
-    Return all CSV files located in the raw data directory.
-
-    Returns
-    -------
-    list[Path]
-        List of CSV file paths.
-
-    Raises
-    ------
-    FileNotFoundError
-        If the raw data directory does not exist.
+    Carga todos los CSV de un directorio y los devuelve
+    como un diccionario de DataFrames.
     """
 
-    if not RAW_DATA_DIR.exists():
-        raise FileNotFoundError(f"Raw data directory not found: {RAW_DATA_DIR}")
+    data_dir = Path(data_dir)
 
-    return sorted(RAW_DATA_DIR.glob("*.csv"))
+    datasets = {}
 
+    for file in sorted(data_dir.glob("*.csv")):
+        datasets[file.stem] = load_csv(file)
 
-def load_dataset(file_path: Path) -> pd.DataFrame:
-    """
-    Load a CSV dataset.
-
-    Parameters
-    ----------
-    file_path : Path
-        Path to the CSV file.
-
-    Returns
-    -------
-    pd.DataFrame
-        Loaded dataset.
-    """
-
-    if not file_path.exists():
-        raise FileNotFoundError(file_path)
-
-    return pd.read_csv(file_path)
+    return datasets

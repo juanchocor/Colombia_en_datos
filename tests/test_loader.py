@@ -3,7 +3,7 @@ from pathlib import Path
 import pandas as pd
 import pytest
 
-from src.loader import list_csv_files, load_dataset
+from src.loader import list_csv_files, load_dataset, load_datasets
 
 
 def test_list_csv_files_returns_paths():
@@ -54,3 +54,17 @@ def test_loading_missing_file_raises_error():
 
     with pytest.raises(FileNotFoundError):
         load_dataset(Path("missing.csv"))
+
+
+def test_load_datasets_returns_named_dataframes():
+    """Loading multiple datasets should preserve their names."""
+
+    dataset_paths = {
+        "embarazo": Path("episodios/001_embarazo_adolescente/data/raw/embarazo_adolescentes.csv"),
+        "educacion": Path("episodios/001_embarazo_adolescente/data/raw/educacion.csv"),
+    }
+
+    datasets = load_datasets(dataset_paths)
+
+    assert set(datasets) == {"embarazo", "educacion"}
+    assert all(isinstance(df, pd.DataFrame) for df in datasets.values())
