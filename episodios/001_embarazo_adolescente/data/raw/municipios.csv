@@ -1,9 +1,0 @@
-codigo_divipola,nombre_municipio,codigo_departamento,nombre_departamento,categoria_ruralidad,latitud,longitud,altitud_msnm,area_km2
-05001,Medellín,05,Antioquia,Ciudades y aglomeraciones,6.244747,-75.574828,1495,380.64
-05002,Abejorral,05,Antioquia,Rural,5.789270,-75.427780,2275,491.00
-05004,Abriaquí,05,Antioquia,Rural,6.631480,-76.063610,1900,293.00
-11001,Bogotá D.C.,11,Bogotá D.C.,Ciudades y aglomeraciones,4.609710,-74.081750,2640,1635.00
-76001,Cali,76,Valle del Cauca,Ciudades y aglomeraciones,3.451647,-76.531985,1018,564.00
-08001,Barranquilla,08,Atlántico,Ciudades y aglomeraciones,10.968540,-74.781320,18,166.00
-13001,Cartagena,13,Bolívar,Ciudades y aglomeraciones,10.399720,-75.514440,2,609.00
-... (1,103 municipios en total)
