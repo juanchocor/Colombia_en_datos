@@ -1,0 +1,12 @@
+
+
+{
+"name":"Divipola/Serv_PuntosCentrosPoblados2013I",
+"title":"Divipola/Serv_PuntosCentrosPoblados2013I",
+"type":"Map Service",
+"typeKeywords":["ArcGIS Server","Service","Map Service"],
+"description":"Centros Poblados Divipola 2013I",
+"extent":[[-9378900.917915978,-6569353.5373138795],[-569854.2337166853,1956295.324146418]],
+
+"url":"https://portalgis.dane.gov.co/mparcgis/rest/services/Divipola/Serv_PuntosCentrosPoblados2013I/MapServer"
+}
