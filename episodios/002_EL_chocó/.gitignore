@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data heavy / local
+Data/raw/*
+Data/interim/*
+Data/processed/*
+
+# Outputs
+outputs/*
+
+# OS
+.DS_Store
+Thumbs.db
