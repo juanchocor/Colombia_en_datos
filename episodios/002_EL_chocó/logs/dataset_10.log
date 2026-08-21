@@ -1,0 +1,84 @@
+2026-08-18 15:19:43,045 | INFO | Inicio Dataset 10
+2026-08-18 15:19:43,047 | INFO | Inventario RAW | archivo=dataset_01_poblacion_territorio_choco.csv | extension=.csv | bytes=1743 | modificado=2026-08-12
+2026-08-18 15:19:43,047 | INFO | Inventario RAW | archivo=dataset_01_poblacion_territorio_choco_definitivo.csv | extension=.csv | bytes=4115 | modificado=2026-08-12
+2026-08-18 15:19:43,047 | INFO | Inventario RAW | archivo=dataset_02_conectividad_digital_choco_v2.csv | extension=.csv | bytes=7848 | modificado=2026-08-12
+2026-08-18 15:19:43,047 | INFO | Inventario RAW | archivo=dataset_03_conectividad_fisica_choco_final.csv | extension=.csv | bytes=12240 | modificado=2026-08-13
+2026-08-18 15:19:43,047 | INFO | Inventario RAW | archivo=dataset_05_condiciones_socioeconomicas_choco_final.csv | extension=.csv | bytes=4995 | modificado=2026-08-16
+2026-08-18 15:19:43,047 | INFO | Inventario RAW | archivo=dataset_06_informacion_comunicacion_choco_v1.xlsx | extension=.xlsx | bytes=16331 | modificado=2026-08-16
+2026-08-18 15:19:43,047 | INFO | Inventario RAW | archivo=dataset_07_emergencias_desastres_choco_final(1).xlsx | extension=.xlsx | bytes=117110 | modificado=2026-08-16
+2026-08-18 15:19:43,049 | INFO | Inventario RAW | archivo=dataset_08_capacidad_institucional_choco_v1.xlsx | extension=.xlsx | bytes=13487 | modificado=2026-08-16
+2026-08-18 15:19:43,049 | INFO | Inventario RAW | archivo=dataset_09_inversion_publica_infraestructura_choco_v1.xlsx | extension=.xlsx | bytes=4701855 | modificado=2026-08-16
+2026-08-18 15:19:43,049 | INFO | Inventario RAW | archivo=dataset_10_historia_evidencia_cualitativa_choco_v1.xlsx | extension=.xlsx | bytes=12567 | modificado=2026-08-16
+2026-08-18 15:19:43,049 | INFO | Inventario RAW | archivo=Divipola_Serv_PuntosCentrosPoblados2013I.pitemx | extension=.pitemx | bytes=443 | modificado=2026-08-12
+2026-08-18 15:19:43,049 | INFO | Inventario RAW | archivo=Documento_Dataset_03_Conectividad_Fisica_Choco.docx | extension=.docx | bytes=39481 | modificado=2026-08-13
+2026-08-18 15:19:43,049 | INFO | Inventario RAW | archivo=GiniMovilidad.csv | extension=.csv | bytes=53657 | modificado=2026-08-13
+2026-08-18 15:19:43,049 | INFO | Inventario RAW | archivo=Registro_Especial_de_Prestadores_y_Sedes_de_Servicios_de_Salud_20260818.csv | extension=.csv | bytes=32191585 | modificado=2026-08-18
+2026-08-18 15:19:43,049 | INFO | Inventario RAW | archivo=TerriData_Dim4.xlsx | extension=.xlsx | bytes=20789132 | modificado=2026-08-13
+2026-08-18 15:19:43,049 | INFO | Inventario RAW | archivo=TerriData_Dim5.xlsx | extension=.xlsx | bytes=28808683 | modificado=2026-08-13
+2026-08-18 15:19:43,049 | INFO | Inventario RAW | archivo=Visor-TCCN.xlsx | extension=.xlsx | bytes=11876274 | modificado=2026-08-12
+2026-08-18 15:19:43,488 | INFO | Archivo fuente=dataset_10_historia_evidencia_cualitativa_choco_v1.xlsx | hojas=Biblioteca, Conceptos, Casos, Fuentes, Metodologia
+2026-08-18 15:19:43,509 | INFO | Hoja inspeccionada | hoja=Biblioteca | filas=7 | columnas=14 | campos=['id', 'categoria', 'autor', 'año', 'titulo', 'tipo', 'territorio', 'tema', 'metodologia', 'hallazgo', 'uso', 'calidad', 'enlace', 'nota']
+2026-08-18 15:19:43,511 | INFO | Hoja inspeccionada | hoja=Conceptos | filas=6 | columnas=3 | campos=['concepto', 'definicion_operativa', 'fuente_contextual']
+2026-08-18 15:19:43,511 | INFO | Hoja inspeccionada | hoja=Casos | filas=4 | columnas=6 | campos=['id_caso', 'territorio', 'tema', 'actores_o_procesos', 'fuente', 'uso']
+2026-08-18 15:19:43,511 | INFO | Hoja inspeccionada | hoja=Fuentes | filas=7 | columnas=4 | campos=['id', 'institucion', 'enlace', 'tipo']
+2026-08-18 15:19:43,511 | INFO | Hoja inspeccionada | hoja=Metodologia | filas=7 | columnas=2 | campos=['campo', 'valor']
+2026-08-18 15:19:43,708 | INFO | Unidad confirmada: documento/investigacion/caso; no municipio-año
+2026-08-18 15:19:43,708 | INFO | Cobertura: 9 de 31 municipios IOT mencionados literalmente; 3 registros con municipio único
+2026-08-18 15:19:43,726 | INFO | Salida generada: 7 filas, 22 columnas, 7 IDs únicos, 4 nulos DIVIPOLA intencionales
+2026-08-18 15:19:43,726 | INFO | Resultado cerrado con limitaciones: catálogo cualitativo no municipal
+2026-08-18 15:20:12,261 | INFO | Inicio Dataset 10
+2026-08-18 15:20:12,262 | INFO | Inventario RAW | archivo=dataset_01_poblacion_territorio_choco.csv | extension=.csv | bytes=1743 | modificado=2026-08-12
+2026-08-18 15:20:12,262 | INFO | Inventario RAW | archivo=dataset_01_poblacion_territorio_choco_definitivo.csv | extension=.csv | bytes=4115 | modificado=2026-08-12
+2026-08-18 15:20:12,262 | INFO | Inventario RAW | archivo=dataset_02_conectividad_digital_choco_v2.csv | extension=.csv | bytes=7848 | modificado=2026-08-12
+2026-08-18 15:20:12,263 | INFO | Inventario RAW | archivo=dataset_03_conectividad_fisica_choco_final.csv | extension=.csv | bytes=12240 | modificado=2026-08-13
+2026-08-18 15:20:12,263 | INFO | Inventario RAW | archivo=dataset_05_condiciones_socioeconomicas_choco_final.csv | extension=.csv | bytes=4995 | modificado=2026-08-16
+2026-08-18 15:20:12,263 | INFO | Inventario RAW | archivo=dataset_06_informacion_comunicacion_choco_v1.xlsx | extension=.xlsx | bytes=16331 | modificado=2026-08-16
+2026-08-18 15:20:12,263 | INFO | Inventario RAW | archivo=dataset_07_emergencias_desastres_choco_final(1).xlsx | extension=.xlsx | bytes=117110 | modificado=2026-08-16
+2026-08-18 15:20:12,263 | INFO | Inventario RAW | archivo=dataset_08_capacidad_institucional_choco_v1.xlsx | extension=.xlsx | bytes=13487 | modificado=2026-08-16
+2026-08-18 15:20:12,263 | INFO | Inventario RAW | archivo=dataset_09_inversion_publica_infraestructura_choco_v1.xlsx | extension=.xlsx | bytes=4701855 | modificado=2026-08-16
+2026-08-18 15:20:12,263 | INFO | Inventario RAW | archivo=dataset_10_historia_evidencia_cualitativa_choco_v1.xlsx | extension=.xlsx | bytes=12567 | modificado=2026-08-16
+2026-08-18 15:20:12,263 | INFO | Inventario RAW | archivo=Divipola_Serv_PuntosCentrosPoblados2013I.pitemx | extension=.pitemx | bytes=443 | modificado=2026-08-12
+2026-08-18 15:20:12,263 | INFO | Inventario RAW | archivo=Documento_Dataset_03_Conectividad_Fisica_Choco.docx | extension=.docx | bytes=39481 | modificado=2026-08-13
+2026-08-18 15:20:12,263 | INFO | Inventario RAW | archivo=GiniMovilidad.csv | extension=.csv | bytes=53657 | modificado=2026-08-13
+2026-08-18 15:20:12,263 | INFO | Inventario RAW | archivo=Registro_Especial_de_Prestadores_y_Sedes_de_Servicios_de_Salud_20260818.csv | extension=.csv | bytes=32191585 | modificado=2026-08-18
+2026-08-18 15:20:12,265 | INFO | Inventario RAW | archivo=TerriData_Dim4.xlsx | extension=.xlsx | bytes=20789132 | modificado=2026-08-13
+2026-08-18 15:20:12,265 | INFO | Inventario RAW | archivo=TerriData_Dim5.xlsx | extension=.xlsx | bytes=28808683 | modificado=2026-08-13
+2026-08-18 15:20:12,265 | INFO | Inventario RAW | archivo=Visor-TCCN.xlsx | extension=.xlsx | bytes=11876274 | modificado=2026-08-12
+2026-08-18 15:20:12,700 | INFO | Archivo fuente=dataset_10_historia_evidencia_cualitativa_choco_v1.xlsx | hojas=Biblioteca, Conceptos, Casos, Fuentes, Metodologia
+2026-08-18 15:20:12,725 | INFO | Hoja inspeccionada | hoja=Biblioteca | filas=7 | columnas=14 | campos=['id', 'categoria', 'autor', 'año', 'titulo', 'tipo', 'territorio', 'tema', 'metodologia', 'hallazgo', 'uso', 'calidad', 'enlace', 'nota']
+2026-08-18 15:20:12,725 | INFO | Hoja inspeccionada | hoja=Conceptos | filas=6 | columnas=3 | campos=['concepto', 'definicion_operativa', 'fuente_contextual']
+2026-08-18 15:20:12,725 | INFO | Hoja inspeccionada | hoja=Casos | filas=4 | columnas=6 | campos=['id_caso', 'territorio', 'tema', 'actores_o_procesos', 'fuente', 'uso']
+2026-08-18 15:20:12,725 | INFO | Hoja inspeccionada | hoja=Fuentes | filas=7 | columnas=4 | campos=['id', 'institucion', 'enlace', 'tipo']
+2026-08-18 15:20:12,725 | INFO | Hoja inspeccionada | hoja=Metodologia | filas=7 | columnas=2 | campos=['campo', 'valor']
+2026-08-18 15:20:12,735 | INFO | Unidad confirmada: documento/investigacion/caso; no municipio-año
+2026-08-18 15:20:12,735 | INFO | Cobertura: 8 de 31 municipios IOT mencionados literalmente; 2 registros con municipio único
+2026-08-18 15:20:12,754 | INFO | Salida generada: 7 filas, 22 columnas, 7 IDs únicos, 5 nulos DIVIPOLA intencionales
+2026-08-18 15:20:12,754 | INFO | Resultado cerrado con limitaciones: catálogo cualitativo no municipal
+2026-08-18 15:20:39,794 | INFO | Inicio Dataset 10
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=dataset_01_poblacion_territorio_choco.csv | extension=.csv | bytes=1743 | modificado=2026-08-12
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=dataset_01_poblacion_territorio_choco_definitivo.csv | extension=.csv | bytes=4115 | modificado=2026-08-12
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=dataset_02_conectividad_digital_choco_v2.csv | extension=.csv | bytes=7848 | modificado=2026-08-12
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=dataset_03_conectividad_fisica_choco_final.csv | extension=.csv | bytes=12240 | modificado=2026-08-13
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=dataset_05_condiciones_socioeconomicas_choco_final.csv | extension=.csv | bytes=4995 | modificado=2026-08-16
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=dataset_06_informacion_comunicacion_choco_v1.xlsx | extension=.xlsx | bytes=16331 | modificado=2026-08-16
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=dataset_07_emergencias_desastres_choco_final(1).xlsx | extension=.xlsx | bytes=117110 | modificado=2026-08-16
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=dataset_08_capacidad_institucional_choco_v1.xlsx | extension=.xlsx | bytes=13487 | modificado=2026-08-16
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=dataset_09_inversion_publica_infraestructura_choco_v1.xlsx | extension=.xlsx | bytes=4701855 | modificado=2026-08-16
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=dataset_10_historia_evidencia_cualitativa_choco_v1.xlsx | extension=.xlsx | bytes=12567 | modificado=2026-08-16
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=Divipola_Serv_PuntosCentrosPoblados2013I.pitemx | extension=.pitemx | bytes=443 | modificado=2026-08-12
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=Documento_Dataset_03_Conectividad_Fisica_Choco.docx | extension=.docx | bytes=39481 | modificado=2026-08-13
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=GiniMovilidad.csv | extension=.csv | bytes=53657 | modificado=2026-08-13
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=Registro_Especial_de_Prestadores_y_Sedes_de_Servicios_de_Salud_20260818.csv | extension=.csv | bytes=32191585 | modificado=2026-08-18
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=TerriData_Dim4.xlsx | extension=.xlsx | bytes=20789132 | modificado=2026-08-13
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=TerriData_Dim5.xlsx | extension=.xlsx | bytes=28808683 | modificado=2026-08-13
+2026-08-18 15:20:39,794 | INFO | Inventario RAW | archivo=Visor-TCCN.xlsx | extension=.xlsx | bytes=11876274 | modificado=2026-08-12
+2026-08-18 15:20:40,195 | INFO | Archivo fuente=dataset_10_historia_evidencia_cualitativa_choco_v1.xlsx | hojas=Biblioteca, Conceptos, Casos, Fuentes, Metodologia
+2026-08-18 15:20:40,217 | INFO | Hoja inspeccionada | hoja=Biblioteca | filas=7 | columnas=14 | campos=['id', 'categoria', 'autor', 'año', 'titulo', 'tipo', 'territorio', 'tema', 'metodologia', 'hallazgo', 'uso', 'calidad', 'enlace', 'nota']
+2026-08-18 15:20:40,217 | INFO | Hoja inspeccionada | hoja=Conceptos | filas=6 | columnas=3 | campos=['concepto', 'definicion_operativa', 'fuente_contextual']
+2026-08-18 15:20:40,217 | INFO | Hoja inspeccionada | hoja=Casos | filas=4 | columnas=6 | campos=['id_caso', 'territorio', 'tema', 'actores_o_procesos', 'fuente', 'uso']
+2026-08-18 15:20:40,217 | INFO | Hoja inspeccionada | hoja=Fuentes | filas=7 | columnas=4 | campos=['id', 'institucion', 'enlace', 'tipo']
+2026-08-18 15:20:40,217 | INFO | Hoja inspeccionada | hoja=Metodologia | filas=7 | columnas=2 | campos=['campo', 'valor']
+2026-08-18 15:20:40,925 | INFO | Unidad confirmada: documento/investigacion/caso; no municipio-año
+2026-08-18 15:20:40,931 | INFO | Cobertura: 8 de 31 municipios IOT mencionados literalmente; 2 registros con municipio único
+2026-08-18 15:20:40,935 | INFO | Salida generada: 7 filas, 23 columnas, 7 IDs únicos, 5 nulos DIVIPOLA intencionales
+2026-08-18 15:20:40,935 | INFO | Resultado cerrado con limitaciones: catálogo cualitativo no municipal

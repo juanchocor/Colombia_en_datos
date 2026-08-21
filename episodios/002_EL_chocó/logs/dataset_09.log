@@ -1,0 +1,63 @@
+2026-08-18 12:04:21,749 | INFO | Inicio de construcción Dataset 09
+2026-08-18 12:04:21,749 | INFO | RAW revisado: dataset_09_inversion_publica_infraestructura_choco_v1.xlsx
+2026-08-18 12:04:21,749 | INFO | Universo territorial: dataset_01_poblacion_territorio_choco_definitivo.csv
+2026-08-18 12:04:22,668 | INFO | Hoja SGP_2027_SGP inspeccionada: 1157 filas, 17 columnas
+2026-08-18 12:04:22,674 | INFO | SGP Chocó: 32 registros; municipal: 31; agregado departamental excluido: 1
+2026-08-18 12:04:22,683 | INFO | Validación territorial aprobada: 31 municipios y 31 DIVIPOLA únicos
+2026-08-18 12:04:22,710 | INFO | Archivos generados en C:\Users\USUARIO\Desktop\Colombia_en_datos\episodios\002_EL_chocó\Data\processed
+2026-08-18 12:04:22,710 | INFO | Resultado: 31 filas, 25 columnas, 31 DIVIPOLA únicos
+2026-08-18 12:04:22,710 | INFO | BLOQUEO EXTERNO: faltan PIIP y SGR/SICODIS municipales; SECOP no es territorializable
+2026-08-18 12:05:04,768 | INFO | Inicio de construcción Dataset 09
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=dataset_01_poblacion_territorio_choco.csv | extension=.csv | bytes=1743 | modificado=2026-08-12
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=dataset_01_poblacion_territorio_choco_definitivo.csv | extension=.csv | bytes=4115 | modificado=2026-08-12
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=dataset_02_conectividad_digital_choco_v2.csv | extension=.csv | bytes=7848 | modificado=2026-08-12
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=dataset_03_conectividad_fisica_choco_final.csv | extension=.csv | bytes=12240 | modificado=2026-08-13
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=dataset_05_condiciones_socioeconomicas_choco_final.csv | extension=.csv | bytes=4995 | modificado=2026-08-16
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=dataset_06_informacion_comunicacion_choco_v1.xlsx | extension=.xlsx | bytes=16331 | modificado=2026-08-16
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=dataset_07_emergencias_desastres_choco_final(1).xlsx | extension=.xlsx | bytes=117110 | modificado=2026-08-16
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=dataset_08_capacidad_institucional_choco_v1.xlsx | extension=.xlsx | bytes=13487 | modificado=2026-08-16
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=dataset_09_inversion_publica_infraestructura_choco_v1.xlsx | extension=.xlsx | bytes=4701855 | modificado=2026-08-16
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=dataset_10_historia_evidencia_cualitativa_choco_v1.xlsx | extension=.xlsx | bytes=12567 | modificado=2026-08-16
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=Divipola_Serv_PuntosCentrosPoblados2013I.pitemx | extension=.pitemx | bytes=443 | modificado=2026-08-12
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=Documento_Dataset_03_Conectividad_Fisica_Choco.docx | extension=.docx | bytes=39481 | modificado=2026-08-13
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=GiniMovilidad.csv | extension=.csv | bytes=53657 | modificado=2026-08-13
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=Registro_Especial_de_Prestadores_y_Sedes_de_Servicios_de_Salud_20260818.csv | extension=.csv | bytes=32191585 | modificado=2026-08-18
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=TerriData_Dim4.xlsx | extension=.xlsx | bytes=20789132 | modificado=2026-08-13
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=TerriData_Dim5.xlsx | extension=.xlsx | bytes=28808683 | modificado=2026-08-13
+2026-08-18 12:05:04,768 | INFO | Inventario RAW | archivo=Visor-TCCN.xlsx | extension=.xlsx | bytes=11876274 | modificado=2026-08-12
+2026-08-18 12:05:04,768 | INFO | RAW revisado: dataset_09_inversion_publica_infraestructura_choco_v1.xlsx
+2026-08-18 12:05:04,768 | INFO | Universo territorial: dataset_01_poblacion_territorio_choco_definitivo.csv
+2026-08-18 12:05:05,185 | INFO | Hojas del archivo Dataset 09: SGP_H_Datos Reporte SGP, SGP_2027_SGP, SGP_2027_Inicio, SGP_2027_SGP Histórico_1, SGP_2027_SGP Histórico, SGP_2027_ Ficha Proyecciones, SGP_2027_EF_PG, SGP_2027_ET, SGP_2027_lista, SECOP_Gob_Choco, Inventario_fuentes, Diccionario, Metodologia
+2026-08-18 12:05:05,618 | INFO | Hoja SGP_2027_SGP inspeccionada: 1157 filas, 17 columnas
+2026-08-18 12:05:05,635 | INFO | SGP Chocó: 32 registros; municipal: 31; agregado departamental excluido: 1
+2026-08-18 12:05:05,651 | INFO | Validación territorial aprobada: 31 municipios y 31 DIVIPOLA únicos
+2026-08-18 12:05:05,674 | INFO | Archivos generados en C:\Users\USUARIO\Desktop\Colombia_en_datos\episodios\002_EL_chocó\Data\processed
+2026-08-18 12:05:05,674 | INFO | Resultado: 31 filas, 25 columnas, 31 DIVIPOLA únicos
+2026-08-18 12:05:05,674 | INFO | BLOQUEO EXTERNO: faltan PIIP y SGR/SICODIS municipales; SECOP no es territorializable
+2026-08-18 12:05:57,019 | INFO | Inicio de construcción Dataset 09
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=dataset_01_poblacion_territorio_choco.csv | extension=.csv | bytes=1743 | modificado=2026-08-12
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=dataset_01_poblacion_territorio_choco_definitivo.csv | extension=.csv | bytes=4115 | modificado=2026-08-12
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=dataset_02_conectividad_digital_choco_v2.csv | extension=.csv | bytes=7848 | modificado=2026-08-12
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=dataset_03_conectividad_fisica_choco_final.csv | extension=.csv | bytes=12240 | modificado=2026-08-13
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=dataset_05_condiciones_socioeconomicas_choco_final.csv | extension=.csv | bytes=4995 | modificado=2026-08-16
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=dataset_06_informacion_comunicacion_choco_v1.xlsx | extension=.xlsx | bytes=16331 | modificado=2026-08-16
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=dataset_07_emergencias_desastres_choco_final(1).xlsx | extension=.xlsx | bytes=117110 | modificado=2026-08-16
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=dataset_08_capacidad_institucional_choco_v1.xlsx | extension=.xlsx | bytes=13487 | modificado=2026-08-16
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=dataset_09_inversion_publica_infraestructura_choco_v1.xlsx | extension=.xlsx | bytes=4701855 | modificado=2026-08-16
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=dataset_10_historia_evidencia_cualitativa_choco_v1.xlsx | extension=.xlsx | bytes=12567 | modificado=2026-08-16
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=Divipola_Serv_PuntosCentrosPoblados2013I.pitemx | extension=.pitemx | bytes=443 | modificado=2026-08-12
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=Documento_Dataset_03_Conectividad_Fisica_Choco.docx | extension=.docx | bytes=39481 | modificado=2026-08-13
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=GiniMovilidad.csv | extension=.csv | bytes=53657 | modificado=2026-08-13
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=Registro_Especial_de_Prestadores_y_Sedes_de_Servicios_de_Salud_20260818.csv | extension=.csv | bytes=32191585 | modificado=2026-08-18
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=TerriData_Dim4.xlsx | extension=.xlsx | bytes=20789132 | modificado=2026-08-13
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=TerriData_Dim5.xlsx | extension=.xlsx | bytes=28808683 | modificado=2026-08-13
+2026-08-18 12:05:57,019 | INFO | Inventario RAW | archivo=Visor-TCCN.xlsx | extension=.xlsx | bytes=11876274 | modificado=2026-08-12
+2026-08-18 12:05:57,019 | INFO | RAW revisado: dataset_09_inversion_publica_infraestructura_choco_v1.xlsx
+2026-08-18 12:05:57,019 | INFO | Universo territorial: dataset_01_poblacion_territorio_choco_definitivo.csv
+2026-08-18 12:05:57,454 | INFO | Hojas del archivo Dataset 09: SGP_H_Datos Reporte SGP, SGP_2027_SGP, SGP_2027_Inicio, SGP_2027_SGP Histórico_1, SGP_2027_SGP Histórico, SGP_2027_ Ficha Proyecciones, SGP_2027_EF_PG, SGP_2027_ET, SGP_2027_lista, SECOP_Gob_Choco, Inventario_fuentes, Diccionario, Metodologia
+2026-08-18 12:05:57,988 | INFO | Hoja SGP_2027_SGP inspeccionada: 1157 filas, 17 columnas
+2026-08-18 12:05:58,007 | INFO | SGP Chocó: 32 registros; municipal: 31; agregado departamental excluido: 1
+2026-08-18 12:05:58,025 | INFO | Validación territorial aprobada: 31 municipios y 31 DIVIPOLA únicos
+2026-08-18 12:05:58,048 | INFO | Archivos generados en C:\Users\USUARIO\Desktop\Colombia_en_datos\episodios\002_EL_chocó\Data\processed
+2026-08-18 12:05:58,048 | INFO | Resultado: 31 filas, 25 columnas, 31 DIVIPOLA únicos
+2026-08-18 12:05:58,048 | INFO | BLOQUEO EXTERNO: faltan PIIP y SGR/SICODIS municipales; SECOP no es territorializable
