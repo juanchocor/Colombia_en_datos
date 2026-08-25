@@ -1,0 +1,15 @@
+name: colombia-en-datos-004
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - jupyter
+  - matplotlib
+  - seaborn
+  - plotly
+  - pyyaml
+  - scipy
+  - geopandas
+  - pip

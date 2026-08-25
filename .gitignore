@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Original source data: keep local and read-only
+**/data/raw/*
+**/Data/raw/*
+!**/data/raw/README.md
+!**/Data/raw/README.md
+!**/data/raw/.gitkeep
+!**/Data/raw/.gitkeep
+*.xlsx
+*.xls
+*.zip
+
+# Large generated data and temporary files
+*.parquet
+*.tmp
+*.temp
+*.bak
+
+# Generated outputs
+**/outputs/*
