@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data artifacts
+data/raw/*
+data/interim/*
+data/processed/*
+outputs/*
+
+# Keep folder structure and source documentation
+!data/raw/README.md
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+!outputs/.gitkeep
