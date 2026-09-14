@@ -224,6 +224,8 @@ Cada dataset deberá registrar:
 - unidad geográfica;
 - observaciones metodológicas.
 
+Fuente oficial de la Alcaldía de Medellín. Servicio ArcGIS correspondiente a la información protocolizada del POT Acuerdo 48 de 2014. Los registros presentan fechas de adopción y actualización heterogéneas, incluyendo registros actualizados/adoptados en 2025–2026.
+
 ---
 
 # 9. QA / Control de calidad
