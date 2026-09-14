@@ -1,0 +1,2 @@
+# Dependencias del episodio
+# agregar aquí librerías necesarias para análisis, cartografía y visualización
