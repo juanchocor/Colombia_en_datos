@@ -1,0 +1,8 @@
+# Dependencias iniciales del episodio 008
+pandas
+numpy
+pyyaml
+jupyter
+matplotlib
+seaborn
+plotly
