@@ -1,0 +1,9 @@
+# Dependencias del episodio 007
+pandas
+numpy
+requests
+pyyaml
+jupyter
+matplotlib
+seaborn
+plotly
