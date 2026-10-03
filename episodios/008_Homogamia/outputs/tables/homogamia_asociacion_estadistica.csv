@@ -1,0 +1,2 @@
+﻿,parejas_validas,chi2,grados_libertad,p_valor,cramers_v,celdas_esperadas_menores_5,celdas_esperadas_menores_1,nota
+0,375059,472498.8697462433,25,0.0,0.501955929868144,22,22,Revisar celdas esperadas pequeñas. El valor p asintótico puede no ser fiable si muchas celdas tienen frecuencias esperadas bajas.
